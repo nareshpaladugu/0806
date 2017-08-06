@@ -1,0 +1,13 @@
+emailreceipentsCC=
+emailflag=true
+emailreceipents=ddaphal@searshc.com
+
+lstFiles=ResultTest.xlsx
+lstFiles=Script.xlsx
+fileFolder=C:/Users/ddaphal/Desktop/RTCP/
+
+consumerThreads=10
+user=
+password=
+highlightobject=false
+captureBitmapOnFailure=false

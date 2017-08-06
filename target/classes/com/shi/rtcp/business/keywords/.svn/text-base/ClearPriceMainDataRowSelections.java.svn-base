@@ -1,0 +1,48 @@
+package com.shi.rtcp.business.keywords;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import com.shi.rtcp.business.KeywordInterface;
+import com.shi.rtcp.library.ActionLibrary;
+import com.shi.rtcp.locators.Locators;
+import com.shi.rtcp.utils.AutomationUtil;
+import com.shi.rtcp.utils.RTCPException;
+import com.shi.rtcp.vos.TestStepExecutionResultVO;
+
+public class ClearPriceMainDataRowSelections implements KeywordInterface {
+
+	@Override
+	public TestStepExecutionResultVO execute(WebDriver webDriver,
+			String... params) {
+
+
+		TestStepExecutionResultVO  testCaseExecutionResult = new TestStepExecutionResultVO();
+		
+
+		try
+		{
+
+			WebElement checkBox = AutomationUtil.getElement(webDriver, Locators.Clear_Check_Box);
+
+			if(!checkBox.isSelected())
+			{
+				ActionLibrary.click(webDriver, checkBox);
+
+				ActionLibrary.click(webDriver, Locators.Button_ALL_Pages);
+			}
+
+			ActionLibrary.click(webDriver, checkBox);
+
+		} catch (RTCPException e) {
+
+			return AutomationUtil.returnExceptionResult(testCaseExecutionResult, e);
+			
+		}
+	
+		testCaseExecutionResult.setStatus(1);
+		return testCaseExecutionResult;
+	}
+
+
+}

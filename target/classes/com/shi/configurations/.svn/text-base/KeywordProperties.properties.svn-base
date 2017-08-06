@@ -1,0 +1,20 @@
+#------------------------------Non JS ----------------------
+
+ApplyFilter=com.shi.rtcp.business.keywords.ApplyFilter
+ApplySorting=com.shi.rtcp.business.keywords.ApplySorting
+ClearFilter=com.shi.rtcp.business.keywords.ClearFilter
+ClearPriceMainDataRowSelections=com.shi.rtcp.business.keywords.ClearPriceMainDataRowSelections
+CloseBrowser=com.shi.rtcp.business.keywords.CloseBrowser
+Comment=com.shi.rtcp.business.keywords.Comment
+ExportToExcelAndVerify=com.shi.rtcp.business.keywords.ExportToExcelAndVerify
+LaunchBrowser=com.shi.rtcp.business.keywords.LaunchBrowser
+LoginToRTCPApp=com.shi.rtcp.business.keywords.LoginToRTCPApp
+SelectListValue=com.shi.rtcp.business.keywords.SelectListValue
+VerifyFilter=com.shi.rtcp.business.keywords.VerifyFilter
+VerifySorting=com.shi.rtcp.business.keywords.VerifySorting
+Wait=com.shi.rtcp.business.keywords.WaitForSomeTime
+
+#--------------------------------- JS -----------------------
+
+SelectTableRow=com.shi.rtcp.business.keywords.SelectTableRowByJS
+VerifyTableSingleColumnValues=com.shi.rtcp.business.keywords.js.VerifyTableSingleColumnValuesByJS

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/price_repo/!svn/ver/37855/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords
+END
+CloseBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/CloseBrowser.java
+END
+LoginToRTCPApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/price_repo/!svn/ver/37819/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/LoginToRTCPApp.java
+END
+VerifySorting.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/VerifySorting.java
+END
+SelectTableRowByJS.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/price_repo/!svn/ver/37746/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/SelectTableRowByJS.java
+END
+ExportToExcelAndVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 223
+/svn/price_repo/!svn/ver/37823/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/ExportToExcelAndVerify.java
+END
+SelectTableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/SelectTableRow.java
+END
+ApplyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/ApplyFilter.java
+END
+ClearFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/price_repo/!svn/ver/37733/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/ClearFilter.java
+END
+ClearPriceMainDataRowSelections.java
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/ClearPriceMainDataRowSelections.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/Comment.java
+END
+SelectListValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/price_repo/!svn/ver/37714/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/SelectListValue.java
+END
+ApplySorting.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/price_repo/!svn/ver/37729/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/ApplySorting.java
+END
+LaunchBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/price_repo/!svn/ver/37821/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/LaunchBrowser.java
+END
+WaitForSomeTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/price_repo/!svn/ver/37744/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/WaitForSomeTime.java
+END
+VerifyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/price_repo/!svn/ver/37746/Real_Time_Pricing_Projects/realtime-pricing-dashboard/trunk/real-time-dashboard-automation/Real_Time_Competitor_Pricing/src/main/java/com/shi/rtcp/business/keywords/VerifyFilter.java
+END

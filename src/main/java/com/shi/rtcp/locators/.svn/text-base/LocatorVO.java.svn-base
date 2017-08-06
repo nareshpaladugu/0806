@@ -1,0 +1,33 @@
+package com.shi.rtcp.locators;
+
+public class LocatorVO {
+
+	private String locator;
+	private String type;
+	
+	public LocatorVO(String locator) {
+		super();
+		this.locator = locator;
+		this.type = "xpath";
+	}
+	
+	public LocatorVO(String locator, String type) {
+		super();
+		this.locator = locator;
+		this.type = type;
+	}
+	public String getLocator() {
+		return locator;
+	}
+	public void setLocator(String locator) {
+		this.locator = locator;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	
+
+}

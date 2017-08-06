@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33659" started-at="2014-06-13T11:56:48Z" finished-at="2014-06-13T11:57:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33659" started-at="2014-06-13T11:56:48Z" finished-at="2014-06-13T11:57:22Z">
+      <class name="com.shi.rtcp.business.driver.TestDriver">
+        <test-method status="PASS" signature="driverTest(java.lang.String)[pri:0, instance:com.shi.rtcp.business.driver.TestDriver@f7d41f]" name="driverTest" duration-ms="33630" started-at="2014-06-13T17:26:48Z" data-provider="scriptProvider" finished-at="2014-06-13T17:27:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:/Users/ddaphal/Desktop/RTCP/Script.xlsx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverTest -->
+      </class> <!-- com.shi.rtcp.business.driver.TestDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+[0.002][INFO]:      ChromeDriver 23.0.1240.0 C:\Users\ddaphal\workspace\RCTP\chromedriver.exe
+[0.929][FINE]:      Initializing session with capabilities {
+   "acceptSslCerts": true,
+   "applicationCacheEnabled": true,
+   "browserName": "chrome",
+   "cssSelectorsEnabled": true,
+   "handlesAlerts": true,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "nativeEvents": true,
+   "platform": "ANY",
+   "takesScreenshot": true,
+   "version": "",
+   "webStorageEnabled": true
+}
+
+[0.929][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
+[2.473][INFO]:      Connected to Chrome successfully. Version: 35.0.1916.114
+[12.603][WARNING]:  Chrome still running, terminating...
+[12.603][INFO]:     Chrome shutdown

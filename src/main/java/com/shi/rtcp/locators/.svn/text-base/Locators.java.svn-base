@@ -1,0 +1,52 @@
+package com.shi.rtcp.locators;
+
+public class Locators {
+
+	public static String ID="id";
+	
+	public static String CLASS="class";
+	
+	public static String XPATH="xpath";
+
+	public static LocatorVO RealTimePriceMainDataTableHeader = new LocatorVO("//div[@id='gview_realTimePriceMainData']//table[@class='ui-jqgrid-htable']");
+
+	public static LocatorVO RealTimePriceMainDataTable = new LocatorVO("//table[@id='realTimePriceMainData']");
+
+	public static LocatorVO RealTimePriceDataTableHeader = new LocatorVO("//div[@id='gview_realTimePriceData']//table[@class='ui-jqgrid-htable']");
+
+	public static LocatorVO RealTimePriceDataTable = new LocatorVO("//table[@id='realTimePriceData']");
+
+	public static LocatorVO ExportToExcel_RealTimePriceMainDataTable = new LocatorVO("//div[@id='realTimePriceMainDataPager']//td[@title='Excel Export']");
+
+	public static LocatorVO ExportToExcel_RealTimePriceDataTable = new LocatorVO("//div[@id='realTimePriceDataPager']//td[@title='Excel Export']");
+
+	public static LocatorVO PageNumberTextBox_RealTimePriceMainDataTable = new LocatorVO("//div[@id='realTimePriceMainDataPager']//input[@type='text']");
+	
+	public static LocatorVO PageNumberTextBox_RealTimePriceDataTable = new LocatorVO("//div[@id='realTimePriceDataPager']//input[@type='text']");
+
+	public static LocatorVO NoOfRowsListBox_RealTimePriceMainDataTable = new LocatorVO("//div[@id='realTimePriceMainDataPager']//select");
+	
+	public static LocatorVO NoOfRowsListBox_RealTimePriceDataTable =new LocatorVO("//div[@id='realTimePriceDataPager']//select");
+
+	public static LocatorVO PagingInfo_RealTimePriceMainDataTable = new LocatorVO("//div[@id='realTimePriceMainDataPager']//div[@class='ui-paging-info']");
+	
+	public static LocatorVO PagingInfo_RealTimePriceDataTable = new LocatorVO("//div[@id='realTimePriceMainPager']//div[@class='ui-paging-info']");
+
+	public static LocatorVO NextPageButton_RealTimePriceMainDataTable = new LocatorVO("//div[@id='realTimePriceMainDataPager']//td[@id='next_realTimePriceMainDataPager']");
+	
+	public static LocatorVO NextPageButton_RealTimePriceDataTable = new LocatorVO("//div[@id='realTimePriceDataPager']//td[@id='next_realTimePriceDataPager']");
+	
+	
+	
+	public static LocatorVO Button_ALL_Pages = new LocatorVO("//button[contains(@id,'buttonYesSelectAllPages')]");
+	
+	public static LocatorVO Clear_Check_Box = new LocatorVO("cb_realTimePriceMainData",ID);
+	
+	public static LocatorVO Login_User_Name = new LocatorVO("j_username",ID);
+	public static LocatorVO Login_Password = new LocatorVO("j_password",ID);
+	public static LocatorVO Login_Button = new LocatorVO("loginBtn",CLASS);
+	
+	public static String TotalAvailablePages_MainData="//td[@id='realTimePriceMainDataPager_center']//td[@dir='ltr']//span[contains(@id,'realTimePriceMainDataPager')]";
+	public static String TotalAvailablePages_Data="//td[@id='realTimePriceDataPager_center']//td[@dir='ltr']//span[contains(@id,'realTimePriceDataPager')]";
+	
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" verbose="0" name="Failed suite [Suite1]" parallel="methods">
+  <listeners>
+    <listener class-name="com.shi.rtcp.listeners.SuiteListener"/>
+  </listeners>
+  <test name="Default test(failed)" parallel="methods">
+    <classes>
+      <class name="com.shi.RCTP.DriverTest">
+        <methods>
+          <include name="driverTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.shi.RCTP.DriverTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
